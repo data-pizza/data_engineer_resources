@@ -12,7 +12,9 @@ So, whether you're a complete newbie or you're an expert looking to brush up on 
 
 ## 🏁 **Let’s start with** Basics! (Beginner level)
 
-### Introduction To Big Data Analysis
+---
+
+### 🚀 Introduction To Big Data Analysis
     
 Data Engineers come into play when companies needs to handle in a reproducible way large amounts of data so that they can then be streamlined to data analysts and scientists in order to understand past trends and make predictions. 
 
@@ -36,7 +38,7 @@ A good resource in order to gain a birds-eye view of the Data Engineering landsc
 
 ---
 
-### Python
+### 🐍 Python
     
 Nowadays Python is indubitably one of the most ubiquitous programming languages when working with Data. Therefore it vital to have some familiarity with it in order to work in the data space:
     
@@ -54,4 +56,4 @@ In order to create reproducible code and avoid libraries versioning issues, it i
   
 ---
 
-### SQL
+### 💾 SQL
