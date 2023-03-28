@@ -20,6 +20,8 @@ But first of all what is Big Data?
 
 Let's check some **Big Data Analysis Resources!** 👉🏻 https://pierpaolo28.github.io/blog/blog10/
 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
 When working with large amounts of data it can then become impossible to perform any form of analysis on a single machine and that’s why using hardware accelerators (e.g. GPUs, IPUs, etc…) or parallelizing execution across a cluster of machines is fundamental.
 
 **Gpu Accelerated Data Analytics & Machine Learning** 👉🏻 https://pierpaolo28.github.io/blog/blog12/
