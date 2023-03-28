@@ -46,7 +46,7 @@ Nowadays Python is indubitably one of the most ubiquitous programming languages 
     
 Once having learned the basics, we can then start focusing on how to write efficient code in Python:
     
-**Efficient Python Tricks and Tools for Data Scientists — Effective Python for Data Scientists** 👉🏻 https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
+**Efficient Python Tricks and Tools for Data Scientists — Effective Python for Data Scientists** 👉🏻 https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html
     
 In order to create reproducible code and avoid libraries versioning issues, it is then necessary to understand how environments can be created and managed in Python and when using Anaconda:
     
@@ -57,3 +57,21 @@ In order to create reproducible code and avoid libraries versioning issues, it i
 ---
 
 ### 💾 SQL
+
+As a Data Engineer, you might act as an interface between Database Engineers and the Data Analysts/Scientists teams, therefore a good knowledge of SQL to interact with databases can be expected.
+
+**Sql For Data Science** 👉🏻 https://pierpaolo28.github.io/blog/blog22/
+
+**If you are new to SQL, you can lean about all the basics here:
+
+**SQLBolt - Learn SQL - Introduction to SQL** 👉🏻 https://sqlbolt.com/
+
+There exist many different types of database systems (e.g. MySQL, Postgresql), each with its own specific dialect, therefore having cheatsheets with a summary of the key commands can be of great help when switching from one system to another.
+
+**Postgresql Commands** 👉🏻 https://pierpaolo28.github.io/blog/tips/PostgreSQL-Commands/
+
+**BONUS POINT:**
+
+If you want to dig deeper on how SQL works, why not create your own dialect?
+
+**Check Out GomorraSQL — A Library To Write Queries In Neapolitan** 👉🏻 https://betterprogramming.pub/check-out-gomorrasql-a-library-to-write-queries-in-neapolitan-3e85568dddb4
