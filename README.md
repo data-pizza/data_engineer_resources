@@ -18,9 +18,7 @@ Data Engineers come into play when companies needs to handle in a reproducible w
 
 But first of all what is Big Data?
 
-Let's check some **Big Data Analysis Resources!** 👇🏼
-
-[![](https://raw.githubusercontent.com/data-pizza/data_engineer_resources/main/image_1.png)](https://pierpaolo28.github.io/blog/blog10/)
+Let's check some **Big Data Analysis Resources!** 👉🏻  https://pierpaolo28.github.io/blog/blog10/
 
 When working with large amounts of data it can then become impossible to perform any form of analysis on a single machine and that’s why using hardware accelerators (e.g. GPUs, IPUs, etc…) or parallelizing execution across a cluster of machines is fundamental.
 
@@ -35,3 +33,21 @@ A good resource in order to gain a birds-eye view of the Data Engineering landsc
 **Fundamentals of Data Engineering** 👉🏻 https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/
 
 **GitHub - DataTalksClub/data-engineering-zoomcamp at hackernoon.com** 👉🏻 https://github.com/DataTalksClub/data-engineering-zoomcamp?ref=hackernoon.com
+
+### Python
+    
+Nowadays Python is indubitably one of the most ubiquitous programming languages when working with Data. Therefore it vital to have some familiarity with it in order to work in the data space:
+    
+**Learn Python - Free Interactive Python Tutorial** 👉🏻 https://www.learnpython.org/
+    
+Once having learned the basics, we can then start focusing on how to write efficient code in Python:
+    
+**Efficient Python Tricks and Tools for Data Scientists — Effective Python for Data Scientists** 👉🏻 https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
+    
+In order to create reproducible code and avoid libraries versioning issues, it is then necessary to understand how environments can be created and managed in Python and when using Anaconda:
+    
+**Python Environments Management** 👉🏻 https://pierpaolo28.github.io/blog/tips/Python-Environments-Management/
+    
+**Anaconda Management** 👉🏻 https://pierpaolo28.github.io/blog/tips/Anaconda-Management/
+    
+### SQL
