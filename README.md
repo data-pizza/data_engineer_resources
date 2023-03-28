@@ -10,7 +10,7 @@ So, whether you're a complete newbie or you're an expert looking to brush up on 
 
 ---
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
+[!(https://img.youtube.com/vi/QNq6l8_UZ28.jpg)](https://www.youtube.com/watch?v=QNq6l8_UZ28)
 
 ---
 
