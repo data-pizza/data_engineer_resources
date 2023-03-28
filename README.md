@@ -34,6 +34,8 @@ A good resource in order to gain a birds-eye view of the Data Engineering landsc
 
 **GitHub - DataTalksClub/data-engineering-zoomcamp at hackernoon.com** 👉🏻 https://github.com/DataTalksClub/data-engineering-zoomcamp?ref=hackernoon.com
 
+---
+
 ### Python
     
 Nowadays Python is indubitably one of the most ubiquitous programming languages when working with Data. Therefore it vital to have some familiarity with it in order to work in the data space:
@@ -49,5 +51,7 @@ In order to create reproducible code and avoid libraries versioning issues, it i
 **Python Environments Management** 👉🏻 https://pierpaolo28.github.io/blog/tips/Python-Environments-Management/
     
 **Anaconda Management** 👉🏻 https://pierpaolo28.github.io/blog/tips/Anaconda-Management/
-    
+  
+---
+
 ### SQL
