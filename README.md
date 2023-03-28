@@ -62,9 +62,7 @@ As a Data Engineer, you might act as an interface between Database Engineers and
 
 **Sql For Data Science** 👉🏻 https://pierpaolo28.github.io/blog/blog22/
 
-**If you are new to SQL, you can lean about all the basics here:
-
-**SQLBolt - Learn SQL - Introduction to SQL** 👉🏻 https://sqlbolt.com/
+If you are new to SQL, you can lean about all the basics here: **SQLBolt - Learn SQL - Introduction to SQL** 👉🏻 https://sqlbolt.com/
 
 There exist many different types of database systems (e.g. MySQL, Postgresql), each with its own specific dialect, therefore having cheatsheets with a summary of the key commands can be of great help when switching from one system to another.
 
