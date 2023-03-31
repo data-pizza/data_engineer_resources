@@ -71,3 +71,59 @@ There exist many different types of database systems (e.g. MySQL, Postgresql), e
 If you want to dig deeper on how SQL works, why not create your own dialect?
 
 **Check Out GomorraSQL — A Library To Write Queries In Neapolitan** 👉🏻 https://betterprogramming.pub/check-out-gomorrasql-a-library-to-write-queries-in-neapolitan-3e85568dddb4
+
+---
+
+Now that you know how to use SQL to retrieve and manipulate data from databases, what if you get asked to design one or to create new content?
+
+There exist different databases design practices and considerations to be taken into account. 
+
+You can learn more about them here:
+
+Database design basics - Microsoft Support 👉🏻 https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5)
+
+Designing your database schema — best practices 👉🏻 https://towardsdatascience.com/designing-your-database-schema-best-practices-31843dc78a8d)
+
+Additionally, databases can be not just relational but also non-relational in order to be more flexible to store different kinds of data. Although each approach comes with its own advantages and limitations.
+
+Relational VS Non Relational Database 👉🏻 https://www.youtube.com/watch?v=E9AgJnsEvG4&ab_channel=IBMTechnology
+
+Relational VS Nonrelational Databases – the Difference Between a SQL DB and a NoSQL DB 👉🏻 https://www.freecodecamp.org/news/relational-vs-nonrelational-databases-difference-between-sql-db-and-nosql-db/
+
+---
+
+## Apache Spark
+    
+Apache Spark is one of the most popular frameworks to work with big data and therefore used by a large number of big organizations. 
+
+> Apache Spark can support different coding interfaces such as Python, SQL, Java, and Scala.
+    
+Getting Started With Apache Spark 👉🏻 https://pierpaolo28.github.io/blog/blog73/
+    
+Apache Spark Optimization Techniques 👉🏻 https://pierpaolo28.github.io/blog/blog74/
+    
+For a complete guide on **“Learning Spark”**, Databricks also offers the complete book for free 👉🏻 https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)
+    
+## Cloud Computing
+
+As more and more companies move from using on-premises resources to the cloud, it has become more and more important to learn about Cloud Computing.
+    
+Cloud Foundations For Data Scientists 👉🏻 https://pierpaolo28.github.io/blog/blog51/
+    
+If interested in learning more about Docker and Kubernetees, cheatsheets are available below:
+    
+Docker Commands 👉🏻 https://pierpaolo28.github.io/blog/tips/Docker-Commands/
+    
+Kubernetes Commands 👉🏻  https://pierpaolo28.github.io/blog/tips/Kubernetes-Commands/
+    
+While working with cloud-based systems, there are different paradigms which can be used in order to store data such as Databases, Data Warehouses and Data Lakes. You can learn more about them in the following article:
+    
+Data Stack for Machine Learning - Made With ML 👉🏻 https://madewithml.com/courses/mlops/data-stack/
+    
+The 3 most popular cloud computing platoforms are Microsoft Azure, Amazon Web Serivces (AWS) and Google Cloud Platform (GCP). 
+
+Each of these 3 providers offers a wide range of free course and documentation material in order to get you started with your learning some example are:
+    
+1. Microsoft Learn for Azure 👉🏻 https://learn.microsoft.com/en-us/training/azure/
+2. AWS Training 👉🏻 https://www.aws.training/
+3. Google Cloud Skills Boost 👉🏻 https://www.cloudskillsboost.google/
