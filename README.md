@@ -92,7 +92,7 @@ Relational VS Nonrelational Databases – the Difference Between a SQL DB and a 
 
 ---
 
-## Apache Spark
+## ⚡️ Apache Spark
     
 Apache Spark is one of the most popular frameworks to work with big data and therefore used by a large number of big organizations. 
 
@@ -104,7 +104,7 @@ Apache Spark Optimization Techniques 👉🏻 https://pierpaolo28.github.io/blog
     
 For a complete guide on **“Learning Spark”**, Databricks also offers the complete book for free 👉🏻 https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)
     
-## Cloud Computing
+## ☁️ Cloud Computing
 
 As more and more companies move from using on-premises resources to the cloud, it has become more and more important to learn about Cloud Computing.
     
