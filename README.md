@@ -127,3 +127,77 @@ Each of these 3 providers offers a wide range of free course and documentation m
 1. Microsoft Learn for Azure 👉🏻 https://learn.microsoft.com/en-us/training/azure/
 2. AWS Training 👉🏻 https://www.aws.training/
 3. Google Cloud Skills Boost 👉🏻 https://www.cloudskillsboost.google/
+
+---
+
+## 🚀 Let's increase the difficulty (Medium level)
+
+### Batch vs Streaming Pipelines
+    
+Depending on the project you are working on, new data might either arrive constantly (stream) or arrive in sporadic condensed regular intervals (batch). It is important to understand the difference between these 2 scenarios and how they can affect the design of your data pipeline.
+    
+What is a data pipeline | IBM 👉🏻 https://www.ibm.com/topics/data-pipeline
+    
+Intro To Batch Vs Stream Processing - With Examples 👉🏻 https://www.montecarlodata.com/blog-stream-vs-batch-processing/
+    
+Batch Processing vs Stream Processing 👉🏻 https://www.youtube.com/watch?v=A3Mvy8WMk04&ab_channel=TechPrimers
+    
+### ETL vs ELT
+    
+Depending on if you are working on a transactional or analytical workflow and different other considerations you might then have to decide if to transform first your data (ETL) or load it in a staging area (ELT). You can learn more about these 2 approaches in the following articles:  
+    
+Data Engineering: Transactional vs Analytical Workloads 👉🏻 https://medium.com/@guxie/data-engineering-transactional-vs-analytical-workloads-ab1a03832b2c
+    
+ETL vs ELT: Key Differences, Side-by-Side Comparisons, & Use Cases 👉🏻 https://rivery.io/blog/etl-vs-elt/
+    
+### GIT & DevOps
+    
+As part of the role of a Data Engineer, it is fundamental to be able to create reproducible workflows.
+    
+In order to ensure this at a code repository level Git is a fundamental system, you can learn more about it in the following guide:
+    
+What is Git | Atlassian Git Tutorial 👉🏻 https://www.atlassian.com/git/tutorials/what-is-git
+    
+A summary of some of the key commands is instead available here:
+    
+Basic Git Workflow 👉🏻 https://pierpaolo28.github.io/blog/tips/Basic-Git-Workflow/
+    
+Taking this a steps further, some of the common principles can also be applied to versioning and governing your own data:
+    
+Data Version Control · DVC 👉🏻 https://dvc.org/
+    
+Finally, DevOps can be used to align development and operations teams to improve the overall quality and delivery of your projects.
+    
+What is DevOps? | Atlassian 👉🏻 https://www.atlassian.com/devops
+    
+### Testing
+    
+Another key aspect of software development is ensuring your solution really does what you expect and that there are no hidden bugs in your service or between the interaction of different services. There are different testing techniques which can be used in order to identify these kind of issues, some of the most popular ones are outlined here:
+    
+Software Development Testing 👉🏻 https://pierpaolo28.github.io/blog/tips/Software-Development-Testing/
+    
+> For a more in depth guide on how to use testing in Python, this tutorial can be of your case.
+    
+Getting Started With Testing in Python – Real Python 👉🏻 https://realpython.com/python-testing/
+    
+### Feature Preparation / Management
+    
+Once designed a solid Data Engineering pipeline, different end users might require specific columns (features) for their analysis therefore it can be useful to know for Data Engineers how Data Scientists design their data to be fed into Machine Learning (ML) Models.
+    
+Feature **Engineering** Techniques 👉🏻 https://pierpaolo28.github.io/blog/blog30/
+    
+Feature **Extraction** Techniques 👉🏻 https://pierpaolo28.github.io/blog/blog29/
+    
+Feature **Selection** Techniques 👉🏻 https://pierpaolo28.github.io/blog/blog27/
+    
+Once an ML model reaches the production stage, Data Engineers and Machine Learning Engineers will have to design a way to reliable process new data as it comes so that to make predictions and retrain the ML model on a regular basis. Feature Stores are one of the most common approaches in order to create reusable solutions for this scenario:
+    
+Getting Started With Feature Stores 👉🏻 https://pierpaolo28.github.io/blog/blog67/
+    
+### Data Visualization
+    
+In order to check the quality of our data pipeline and communicate with non-technical stakeholders, it can be quite useful for Data Engineers to be able to design easy-to-understand data visualizations to communicate key insights about the data or the system architecture we are working with.
+
+Interactive Data Visualization 👉🏻 https://pierpaolo28.github.io/blog/blog11/
+
+Interactive Dashboards For Data Science 👉🏻 https://pierpaolo28.github.io/blog/blog21/
