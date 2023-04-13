@@ -149,10 +149,12 @@ Depending on if you are working on a transactional or analytical workflow and di
 Data Engineering: Transactional vs Analytical Workloads 👉🏻 https://medium.com/@guxie/data-engineering-transactional-vs-analytical-workloads-ab1a03832b2c
     
 ETL vs ELT: Key Differences, Side-by-Side Comparisons, & Use Cases 👉🏻 https://rivery.io/blog/etl-vs-elt/
-    
+
+---
+
 ### GIT & DevOps
     
-As part of the role of a Data Engineer, it is fundamental to be able to create reproducible workflows.
+> As part of the role of a Data Engineer, it is fundamental to be able to create reproducible workflows.
     
 In order to ensure this at a code repository level Git is a fundamental system, you can learn more about it in the following guide:
     
@@ -169,7 +171,9 @@ Data Version Control · DVC 👉🏻 https://dvc.org/
 Finally, DevOps can be used to align development and operations teams to improve the overall quality and delivery of your projects.
     
 What is DevOps? | Atlassian 👉🏻 https://www.atlassian.com/devops
-    
+
+---
+
 ### Testing
     
 Another key aspect of software development is ensuring your solution really does what you expect and that there are no hidden bugs in your service or between the interaction of different services. There are different testing techniques which can be used in order to identify these kind of issues, some of the most popular ones are outlined here:
@@ -194,6 +198,8 @@ Once an ML model reaches the production stage, Data Engineers and Machine Learni
     
 Getting Started With Feature Stores 👉🏻 https://pierpaolo28.github.io/blog/blog67/
     
+---
+    
 ### Data Visualization
     
 In order to check the quality of our data pipeline and communicate with non-technical stakeholders, it can be quite useful for Data Engineers to be able to design easy-to-understand data visualizations to communicate key insights about the data or the system architecture we are working with.
@@ -201,3 +207,55 @@ In order to check the quality of our data pipeline and communicate with non-tech
 Interactive Data Visualization 👉🏻 https://pierpaolo28.github.io/blog/blog11/
 
 Interactive Dashboards For Data Science 👉🏻 https://pierpaolo28.github.io/blog/blog21/
+
+---
+
+## 🎱 On-the-job tools (Advanced level)
+
+### Platforms
+    
+Some of the most common data platforms which are used in the industry nowadays are:
+    
+    1. Databricks
+    2. Snowflake
+    3. Palantir Foundry
+    4. Firebolt
+    5. Dremio
+    6. Native cloud technologies: AWS (Redshift, Glue), Azure (Synapse, Data Factory), GCP (e.g. Bigquery, DataFlow, DataProc)
+    
+> Becoming familiar with these kinds of tools could then be of help in order to be more employable.
+    
+---
+
+### Libraries & Tools
+    
+Some additional examples of data engineering specific libraries and tools which could be good to know are:
+    
+    1. DBT
+    2. Data Expectations
+    3. Apache Airflow
+    4. Prefect
+    5. Dagster
+    
+A good resource to keep updated about the latest libraries and tools in the data space can be the Seattle Data Guy newsletter. 👉🏻 https://seattledataguy.substack.com/
+    
+Untitled 👉🏻 https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ac4f834-343f-4b48-9a8a-6a6d0cd23c2c/Untitled.png
+    
+Source 👉🏻 https://lakefs.io/blog/the-state-of-data-engineering-2022/
+
+---
+
+### Interview Preparation
+    
+Theoretical Questions:
+data-engineering-interview-questions/full.md at master · OBenner/data-engineering-interview-questions](https://github.com/OBenner/data-engineering-interview-questions/blob/master/content/full.md
+
+---
+
+### SQL/Phyton Coding Questions:
+    
+StrataScratch 👉🏻 https://platform.stratascratch.com/coding?code_type=1
+
+Seattle Data Guy 👉🏻 https://www.youtube.com/@SeattleDataGuy
+    
+Data Engineering Study Guide 👉🏻 https://docs.google.com/spreadsheets/d/1GOO4s1NcxCR8a44F0XnsErz5rYDxNbHAHznu4pJMRkw/edit#gid=0
