@@ -248,12 +248,10 @@ Source 👉🏻 https://lakefs.io/blog/the-state-of-data-engineering-2022/
 ### Interview Preparation
     
 Theoretical Questions:
-data-engineering-interview-questions/full.md at master · OBenner/data-engineering-interview-questions](https://github.com/OBenner/data-engineering-interview-questions/blob/master/content/full.md
-
----
+Data Engineering Interview Questions 👉🏻 https://github.com/OBenner/data-engineering-interview-questions/blob/master/content/full.mdc
 
 ### SQL/Phyton Coding Questions:
-    
+
 StrataScratch 👉🏻 https://platform.stratascratch.com/coding?code_type=1
 
 Seattle Data Guy 👉🏻 https://www.youtube.com/@SeattleDataGuy
